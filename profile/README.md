@@ -16,7 +16,7 @@
 ### 💡 About the Organization
 **RatelSlop** (casually referenced as *"RatelSlop Studios"*) is an informal, non-commercial collective moniker used by independent hobby contributors based in the Netherlands and Germany. We are **not** a company, legal entity, or formal studio.
 
-Projects across this organization are maintained independently by their respective contributors and may be deployed on different platforms (such as GitHub Pages or Cloudflare Pages/Workers) under various domains (including, but not limited to, [ratelslop.studio](https://ratelslop.studio), [schoolnaam.nl](https://schoolnaam.nl), and [hooijmaijers.me](https://hooijmaijers.me)).
+Projects across this organization are maintained independently by their respective contributors and may be deployed on different platforms (such as GitHub Pages or Cloudflare Pages/Workers) under various domains (including, but not limited to, [ratelslop.studio](https://ratelslop.studio) and [schoolnaam.nl](https://schoolnaam.nl))).
 
 ---
 
